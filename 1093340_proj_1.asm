@@ -3,7 +3,7 @@
     
 	Endl:	.string "\n"
    	Input:	.string "Input a number:\n"
-   	Output:	.string "sum of this number is:\n"
+   	Output:	.string "The damage:\n"
 .text
 main:
 
